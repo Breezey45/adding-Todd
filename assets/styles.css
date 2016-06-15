@@ -1,0 +1,42 @@
+
+
+form{
+	width: 50%;
+	margin:auto;
+}
+h1{
+	text-align: center;
+	color: yellow;
+	padding: 1em;
+}
+
+.card{
+	
+	width: 400px;
+	margin:auto;
+
+}
+
+.photo{
+
+	width: 300px;
+	margin: auto;
+
+	text-align: center;
+	font-size: 40px;
+	color: green;
+}
+
+.tomatoBackground{
+	background-color: tomato;
+}
+.redBackground{
+	background-color: red;
+}
+.greenBackground{
+	background-color: green;
+}
+
+.blueBackground{
+	background-color: blue;
+}
